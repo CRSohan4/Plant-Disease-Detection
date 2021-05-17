@@ -1,7 +1,7 @@
 import flask
 import werkzeug
 
-!git clone https://github.com/CRSohan4/Plant-Disease-Detection.git
+# !git clone https://github.com/CRSohan4/Plant-Disease-Detection.git
 # Import OpenCV
 import cv2
 import os
